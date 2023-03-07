@@ -1,0 +1,154 @@
+body {
+margin: 0;
+text-align:center;
+font-family: "Merriweather",Helvetica, Arial,sans-serif;
+background-color: #FAF7F0;
+}
+
+h1 {
+color: #22A39F;
+font-size: 5.25rem;
+margin: 50px auto 0 auto;
+font-family: "Sacramento", cursive;
+line-height: 2;
+}
+
+h2 {
+color: #22A39F;
+font-size: 2.5rem;
+font-family: "Abel", sans-serif;
+font-weight: bold;
+}
+
+h3 {
+font-family: "Abel", sans-serif;
+color: #22A39F;
+}
+
+hr {
+border: dotted 6px;
+width: 4%;
+color: #22A39F;
+border-bottom: none;
+}
+
+
+p {
+line-height: 2;
+}
+
+a:hover {
+color: #30e3cb;
+}
+
+.bottom-container {
+background-color: #22A39F;
+padding-top: 10px;
+padding-bottom: 20px;
+}
+
+.bottom_cloud {
+position: absolute;
+left: 250px;
+bottom: 500px;
+}
+
+
+.btn {
+  background: #CDFCF6;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Merriweather",Helvetica, Arial,sans-serif;
+  color: #FAF7F0;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.copyright {
+color: #98A8F8;
+font-size: 0.75rem;
+padding-top: 20px;
+}
+
+.footer-link {
+font-family: "Merriweather",Helvetica, Arial,sans-serif;
+text-decoration: none;
+color: #FAF7F0;
+margin-right: 12px;
+margin-top: 15px;
+}
+
+.image-left {
+width: 15%;
+align: center;
+float: left;
+margin-right: 30px;
+}
+
+.image-right {
+width: 15%;
+align: center;
+float: right;
+margin-left: 30px;
+}
+
+.intro {
+width:30%;
+margin: auto;
+}
+
+.middle-container {
+background-color: #FAF7F0;
+margin-bottom: 30px;
+}
+
+.pro {
+text-decoration: underline;
+}
+
+.profile {
+margin-bottom: 30px;
+}
+
+
+.skill-row {
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+.top_cloud {
+
+position: absolute;
+right: 300px;
+top: 50px;
+}
+
+.top-container {
+background-color: #FAF7F0;
+margin: 0;
+position: relative;
+padding-top: 100px;
+}
+
+.wine-related {
+padding-bottom: 20px;
+}
